@@ -1,0 +1,8 @@
+{
+  "analyticsMenu": [
+    { "name": "Dashboard", "path": "/analytics/dashboard" },
+    { "name": "Reports", "path": "/analytics/reports" },
+    { "name": "Messages", "path": "/analytics/messages" },
+    { "name": "Settings", "path": "/analytics/settings" }
+  ]
+}

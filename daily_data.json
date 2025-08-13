@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2025-08-12",
+    "metrics": {
+      "messages_sent": 150,
+      "messages_delivered": 145,
+      "messages_read": 120
+    },
+    "events": [
+      {"time": "10:00", "description": "Agent 'SupportBot' launched"},
+      {"time": "14:30", "description": "Campaign 'SummerSale' started"}
+    ]
+  },
+  {
+    "date": "2025-08-13",
+    "metrics": {
+      "messages_sent": 180,
+      "messages_delivered": 175,
+      "messages_read": 150
+    },
+    "events": [
+      {"time": "09:15", "description": "New user 'John Doe' onboarded"},
+      {"time": "11:00", "description": "System health check passed"}
+    ]
+  }
+]

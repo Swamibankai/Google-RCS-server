@@ -1,0 +1,52 @@
+[
+  {
+    "id": "panamax_e5qiw4pk_agent",
+    "name": "Panamax",
+    "brandName": "DPCheckA",
+    "partnerAccount": "Panamax - A Bankai Group",
+    "brandId": "f50420a0-cfb6-46bb-a566-07dd4bb1dc40",
+    "hostingRegion": "Asia Pacific",
+    "billingCategory": "Conversational",
+    "useCase": "Promotional"
+  },
+  {
+    "id": "panamax_4aa0sclm_agent",
+    "name": "Panamax_RCS",
+    "brandName": "DPCheckA",
+    "partnerAccount": "Panamax - A Bankai Group",
+    "brandId": "f50420a0-cfb6-46bb-a566-07dd4bb1dc40",
+    "hostingRegion": "Asia Pacific",
+    "billingCategory": "Conversational",
+    "useCase": "Promotional"
+  },
+  {
+    "agentIdDisplay": "RCSTEST",
+    "name": "RCSTest",
+    "brandId": "brand_alpha",
+    "logoUrl": "",
+    "bannerImageUrl": "",
+    "themeColor": "#0B78D0",
+    "description": "Testing",
+    "companyWebsite": "",
+    "primaryWebsiteLabel": "Official Website",
+    "contactEmail": "",
+    "primaryEmailLabel": "Support Email",
+    "contactPhone": "",
+    "primaryPhoneNumberLabel": "Main Contact",
+    "privacyPolicyUrl": "",
+    "termsOfServiceUrl": "",
+    "id": "agent_1755076034500",
+    "status": "Draft",
+    "category": "Utility",
+    "webhookMessageUrl": "",
+    "webhookEventUrl": "",
+    "clientToken": "",
+    "supportedLocales": "en",
+    "capabilities": {
+      "richCards": true,
+      "carousels": true,
+      "suggestedReplies": true,
+      "suggestedActions": true
+    }
+  }
+]

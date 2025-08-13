@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2025-08-13T06:19:38.092Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T06:30:49.034Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T06:55:24.049Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T07:05:07.716Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T07:21:58.225Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T07:22:03.340Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T07:23:01.581Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T07:54:59.404Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T07:55:32.368Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T08:30:12.235Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T08:30:34.257Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T08:44:20.248Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  },
+  {
+    "timestamp": "2025-08-13T08:44:32.469Z",
+    "msisdn": "+971586640717",
+    "message": "Hello from RCS!",
+    "success": true,
+    "errorMessage": null
+  }
+]
